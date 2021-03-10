@@ -1,7 +1,7 @@
 # youtag
 
 #Description
-A 12 line python3 script for to search on a youtube video for tags.
+A 12 line python3 script that search on a youtube video for tags.
 
 #prerequisite
 1)install python3
